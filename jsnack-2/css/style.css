@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right top, #053716, #035d40, #008573, #00aeac, #12d8eb);
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    height: 60%;
+    font-size: 3.5em;
+    background-image: linear-gradient(to right top, #053537, #0a5a5f, #0e828a, #11acb9, #12d8eb);
+    color: whitesmoke;
+}
+
+.green {
+    color: #00FF58;
+}
