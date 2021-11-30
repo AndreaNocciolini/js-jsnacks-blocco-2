@@ -10,6 +10,7 @@
     justify-content: center;
     width: 100%;
     height: 100vh;
+    background-image: linear-gradient(to right top, #000000, #020101, #030102, #040204, #040306, #0a090f, #0e0f16, #11141b, #161b26, #1a2332, #1f2a3e, #23324b);
 }
 
 .container {
@@ -18,5 +19,7 @@
     justify-content: center;
     width: 60%;
     height: 60%;
-    background-color: red;
+    background-color: white;
+    font-size: 3.5em;
+
 }
